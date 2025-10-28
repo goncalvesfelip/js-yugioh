@@ -1,9 +1,4 @@
-# js-yugioh
-Recriando um jogo do Yu-Gi-Oh utilizando as mecânicas de jogo do Jo-Ken-Po
-# Yu-Gi-Oh Jo-Ken-Po Edition
 
-# js-yugioh
-Recriando um jogo do Yu-Gi-Oh utilizando as mecânicas de jogo do Jo-Ken-Po
 
 # Yu-Gi-Oh Jo-Ken-Po Edition
 
